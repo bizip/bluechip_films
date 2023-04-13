@@ -1,0 +1,22 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Source Code Pro", monospace;
+  background-color: #060b0f;
+  color: #fff;
+  line-height: 1.8;
+  font-weight: 300;
+  font-size: 1.6rem;
+}
+

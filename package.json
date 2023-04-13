@@ -1,0 +1,23 @@
+{
+  "name": "bluechip_films",
+  "version": "1.0.0",
+  "description": ">Blue Chip Films is an independent documentary film production company, led by Nick Verbitsky. Since 1998, we’ve been producing impactful documentary film work on subjects ranging from Polygamy and Domestic Violence, to Insider Trading and Opioids.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.27.5",
+    "hint": "^7.1.8",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
