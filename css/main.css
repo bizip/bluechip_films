@@ -118,6 +118,15 @@ body {
   list-style: none;
 }
 
+.header__nav ul li a {
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.header__nav ul li a:hover,
+.header__nav ul li a:visited{
+  color:white;
+}
+
 .header__nav ul li:nth-child(1) {
   display: none;
 }
@@ -263,7 +272,6 @@ footer {
     align-items: center;
   }
 }
-
 @media (max-width: 769px) {
   .header__nav ul li:not(:nth-child(5)) {
     display: none;

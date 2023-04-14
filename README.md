@@ -6,7 +6,7 @@ We’re proud to say that our work has garnered three Emmy Awards, an Oscar nomi
 
 # Link to live project
 
-### [Blue Chip Films](https://bizip.github.io/)
+### [Blue Chip Films](https://bizip.github.io/bluechip_films/)
 
 # Link to source code
 
